@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ghibli Quiz</string>
+    <string name="quiz">The QUIZ</string>
+    <string name="question">Which one of these characters can be found in </string>
+    <string name="answer"> </string>
+
+    <string name="isCorrect"></string>
+    <string name="title"><b>Title</b></string>
+    <string name="titleContent"></string>
+    <string name="director"><b>Director</b></string>
+    <string name="directorContent"></string>
+    <string name="year"><b>Year</b></string>
+    <string name="yearContent"></string>
+    <string name="synopsis"><b>Synopsis</b></string>
+    <string name="synopsisContent"></string>
+    <string name="characters"><b>Characters</b></string>
+    <string name="charactersContent"></string>
+    <string name="moreInfo"><br>DO YOU WANT TO KNOW MORE ?</br></string>
+
+</resources>
